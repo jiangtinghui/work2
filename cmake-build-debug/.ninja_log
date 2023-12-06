@@ -1,0 +1,7 @@
+# ninja log v5
+0	141	7229270164758946	build.ninja	eef21effbbaea8d3
+458	586	7228671576244255	MyDll.exe	3c1c8ad9c9b7926e
+3	457	7228671574997588	CMakeFiles/MyDll.dir/src/main.cpp.obj	dda372a485dd5786
+3	451	7228698875538326	CMakeFiles/MyDll.dir/src/my_dll.cpp.obj	ef65c82f6ddd2be4
+451	571	7228698876705208	libMyDll.dll	5f820b946cce22b6
+451	571	7228698876705208	libMyDll.dll.a	5f820b946cce22b6
